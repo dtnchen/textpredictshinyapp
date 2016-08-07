@@ -1,0 +1,9 @@
+name: textpredictshinyapp
+account: dtnchen
+server: shinyapps.io
+appId: 97326
+bundleId: 433148
+url: https://dtnchen.shinyapps.io/textpredictshinyapp/
+when: 1461560720.78663
+asMultiple: FALSE
+asStatic: FALSE
