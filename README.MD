@@ -6,7 +6,6 @@ date: 4/25/2016
 Introduction
 ========================================================
 
-![width](phonetext.jpg)
 
 * Mobile devices are ubiquitous in modern life
      
@@ -54,4 +53,4 @@ Shiny App
 ========================================================
 To use simply type into the text box and the app will react after a brief (< 5 second) latency and output the prediction in a wordcloud with fontsize scaling with the relative probability of the predicted word in the N-gram model. Up to ten word predictions will be shown, at least one word prediction will always appear.
 
-![width](screenshot.png)
+
